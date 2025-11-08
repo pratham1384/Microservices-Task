@@ -40,9 +40,8 @@ submission/
 ---
 
 ## ⚙️ Setup Instructions
-
 ### 1. Clone the Repository
-```bash
+
 git clone <your-forked-repo-url>
 <img width="940" height="223" alt="image" src="https://github.com/user-attachments/assets/74d37ee8-4b44-4ce9-bc6f-05c393c5646e" />
 

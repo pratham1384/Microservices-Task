@@ -47,18 +47,18 @@ git clone <your-forked-repo-url>
 <img width="940" height="223" alt="image" src="https://github.com/user-attachments/assets/74d37ee8-4b44-4ce9-bc6f-05c393c5646e" />
 
 
-2. Build the Containers
+### 2. Build the Containers
 docker-compose build
 
 <img width="940" height="223" alt="image" src="https://github.com/user-attachments/assets/bef3368e-6c63-4c7b-be09-0aee3175470f" />
 <img width="940" height="273" alt="image" src="https://github.com/user-attachments/assets/08c72991-2266-4a48-9dce-7626d56c0501" />
 
 
-3. Run the Services
+### 3. Run the Services
 docker-compose up
 <img width="940" height="347" alt="image" src="https://github.com/user-attachments/assets/730ae80c-6866-4e5f-9849-9e09f2687340" />
 
-4. Verify Services
+### 4. Verify Services
    
 Visit:
 <img width="940" height="245" alt="image" src="https://github.com/user-attachments/assets/6f1246dc-9977-4330-84aa-d7d3c7144099" />
@@ -84,7 +84,7 @@ http://localhost:3002/api/orders
 
 									
 				
-🧪 Testing Each Service
+### 🧪 Testing Each Service
 
 Use curl or browser to confirm responses:
 
